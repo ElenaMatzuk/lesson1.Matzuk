@@ -1,6 +1,6 @@
 package ru.geekbrains.lesson1.Homework1;
 
-public class Homewiork1 {
+public class Homework1 {
 
         byte a1 = -110;
         short b1 = 15674;
